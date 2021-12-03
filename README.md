@@ -18,7 +18,7 @@ This is a colaborative website. It is a dog walking weather app that will let yo
 ![Weather To Walk](https://github.com/luistorano/weather-to-walk/blob/main/assets/images/weather-to-walk-capture.gif)
 
 
-To build this website we used thew following technologies:
+To build this website we used the following technologies:
 * HTML
 * CSS
 * JavaScript
